@@ -1,0 +1,12 @@
+{
+  "name": "labbie",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "github-electron": "registry:dt/github-electron#0.37.8+20160505171444",
+    "node": "registry:dt/node#4.0.0+20160505172921",
+    "react": "registry:dt/react#0.14.0+20160423065914",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-mdl": "registry:dt/react-mdl#0.0.0+20160425154501"
+  }
+}
