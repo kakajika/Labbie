@@ -1,4 +1,4 @@
-![](./labbie.png) 
+![](./images/labbie.png) 
 
 # Labbie
 
