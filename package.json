@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kakajika/Labbie#readme",
   "dependencies": {
+    "electron-json-storage": "^2.0.0",
     "flumpt": "^0.1.4",
     "gitlab": "^1.5.0",
     "react": "^15.0.2",

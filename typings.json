@@ -3,6 +3,7 @@
   "version": false,
   "dependencies": {},
   "ambientDependencies": {
+    "electron-json-storage": "registry:dt/electron-json-storage#0.0.0+20160324000215",
     "github-electron": "registry:dt/github-electron#0.37.8+20160505171444",
     "node": "registry:dt/node#4.0.0+20160505172921",
     "react": "registry:dt/react#0.14.0+20160423065914",
